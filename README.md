@@ -5,6 +5,7 @@ Group A will still be asked to take a fitness test with a personal trainer
 Group B will skip the fitness test and proceed directly to the application
 
 Manager’s hypothesis was that visitors assigned to Group B are more likely to purchase a membership.
+
 In this project I manipulated data with Python, SQL queries, Pandas and visualised the results with Seaborn and Matplotlib.
 
 Results:
