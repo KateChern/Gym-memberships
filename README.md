@@ -12,7 +12,7 @@ Results:
 
 5004 visitors were assigned to the groups A and B, 2504 and 2500 respectively.
 
-Only 11.49% of all visitors fill out an application, from which visitors who don't take a fitness test with a personal trainer are significantly more likely to apply.
+Only 11.49% of all visitors fill out an application, from which whose who don't take a fitness test with a personal trainer are significantly more likely to apply.
 
 
 Of those who picked up an application, there's no significant difference in purchased a membership. Applicants of both groups are more likely to make a purchase (around 80%).
